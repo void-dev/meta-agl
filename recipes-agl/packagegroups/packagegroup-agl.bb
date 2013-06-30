@@ -9,6 +9,7 @@ PACKAGES = "\
     "
 
 RDEPENDS_packagegroup-agl = "\
+    packagegroup-efl-agl \
     "
 
 RRECOMMENDS_${PN} = "\
